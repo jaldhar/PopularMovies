@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="title_movie_detail">Movie Detail</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="load_failure">Error connecting to server.</string>
+    <string name="try_again">Try again?</string>
+    <string name="poster_description">%s poster</string>
+</resources>
