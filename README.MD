@@ -4,7 +4,7 @@ In order to compile this app you will need an API key from [themoviedb.org](http
 Once you have it create a file called `app/src/main/res/values/api_key.xml`.
 It should look like this:
 
-    resources>
+    <resources>
         <string name="api_key">YOUR API KEY</string>
     </resources>
 
